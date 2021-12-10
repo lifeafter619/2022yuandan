@@ -1,8 +1,7 @@
 ## Welcome
+2022元旦晚会准备资料
 
-You can use the [editor on GitHub](https://github.com/lifeafter619/2021yuandan/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Jekyll](https://jekyllrb.com/) 
 
 ### 2021
 
